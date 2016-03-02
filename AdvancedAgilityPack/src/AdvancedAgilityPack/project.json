@@ -1,0 +1,17 @@
+{
+  "version": "1.1.0-*",
+  "title": "AdvancedAgilityPack",
+  "description": "Extends the HAP ( HTML Agility Pack )",
+  "authors": [ "Israel" ],
+  "tags": [ "" ],
+  "projectUrl": "https://github.com/israellot/advancedagilitypack",
+  "licenseUrl": "https://github.com/israellot/advancedagilitypack/blob/master/LICENSE",
+  "frameworks": {
+    "net451": {
+      "dependencies": {
+        "HtmlAgilityPack": "1.4.9"
+      }
+    }
+
+  }
+}
